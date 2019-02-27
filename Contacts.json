@@ -1,0 +1,33 @@
+{
+    "Contact": [{
+            "firstname": "Mary",
+            "lastname": "Peterson",
+            "phone": "+49 31 99998888",
+            "mobile": "+49 163 987654",
+            "email": "mary.peterson@veryslow.com",
+            "address": "[object Object]",
+            "customerId": 2,
+            "id": 2
+        },
+        {
+            "firstname": "Peter",
+            "lastname": "Gustaffson",
+            "phone": "+49 31 123456789",
+            "mobile": "+49 163 987654",
+            "email": "peter.gustaffson@veryslow.com",
+            "address": "[object Object]",
+            "customerId": 2,
+            "id": 3
+        },
+        {
+            "firstname": "Anthony",
+            "lastname": "Ashby",
+            "phone": "+01 88 11223344",
+            "mobile": "+01 122 123123123",
+            "email": "anthony.ashby@ashby.com",
+            "address": "[object Object]",
+            "customerId": 4,
+            "id": 4
+        }
+    ]
+}
