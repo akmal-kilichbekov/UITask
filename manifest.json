@@ -38,6 +38,14 @@
                 "settings": {
                     "bundleName": "rroot.i18n.i18n"
                 }
+            },
+            "customers": {
+				"type": "sap.ui.model.json.JSONModel",
+				"uri": "Json_data/Customers.json"
+			},
+            "products" :{
+                "type": "sap.ui.model.json.JSONModel",
+				"uri": "Json_data/Products.json"
             }
         },
         "resources": {

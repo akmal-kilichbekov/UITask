@@ -8,7 +8,7 @@
             <Button type="Transparent" icon="sap-icon://account" tooltip="{i18n>logout}" press="logOut"/>            
         </headerContent>
         <content>
-            <mvc:XMLView viewName="rroot.view.Orders" />
+            <mvc:XMLView viewName="rroot.view.filter" />
         </content>           
         </Page>
 </mvc:View>
